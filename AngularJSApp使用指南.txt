@@ -1,0 +1,9 @@
+亲爱的用户：
+
+http-server: copy address to browser
+
+Inspect->Network->Disable Cache
+
+
+温斯顿.刘
+2017.9.30于多伦多
